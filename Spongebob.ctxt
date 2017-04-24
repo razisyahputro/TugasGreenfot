@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=pointCounter
+comment0.target=Spongebob(Score)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ gerak()
+comment3.params=
+comment3.target=void\ tangkap()
+numComments=4
